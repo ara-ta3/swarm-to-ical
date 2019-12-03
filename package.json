@@ -1,0 +1,16 @@
+{
+  "name": "swarm-to-ical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ara-ta3/swarm-to-ical.git",
+  "author": "Arata Tanaka <tarata43@yahoo.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "ical-generator": "^1.9.1",
+    "moment": "^2.24.0"
+  }
+}
